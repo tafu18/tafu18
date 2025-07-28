@@ -37,7 +37,6 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 ### 📬 Bana Ulaşın
 
 * **Web Sitem:** [tayfuntasdemir.com.tr](https://tayfuntasdemir.com.tr)
-* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) (Varsayılan link, kendi LinkedIn profilinizle güncelleyin)
-* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr) (Varsayılan e-posta, kendi e-posta adresinizle güncelleyin)
-
+* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) 
+* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr)
 ---
