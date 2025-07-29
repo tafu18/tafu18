@@ -42,20 +42,8 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 ### 📬 Bana Ulaşın
 
 * **Web Sitem:** [tayfuntasdemir.com.tr](https://tayfuntasdemir.com.tr)
-* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) (Varsayılan link, kendi LinkedIn profilinizle güncelleyin)
-* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr) (Varsayılan e-posta, kendi e-posta adresinizle güncelleyin)
+* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) 
+* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr)
 
 ---
 
-**Nasıl Kullanacaksınız:**
-
-1.  **Depo Adı Kontrolü:** GitHub'da kendi kullanıcı adınız (`tafu18`) ile aynı ada sahip, **public** ve `README.md` dosyası olan özel bir depo oluşturduğunuzdan emin olun.
-2.  **Kopyala-Yapıştır:** Yukarıdaki Markdown kodunu kopyalayın.
-3.  **Düzenle:** GitHub'daki özel depo sayfanıza gidin, `README.md` dosyasına tıklayın ve düzenleme (kalem) simgesine tıklayarak bu kodu yapıştırın.
-4.  **Kişiselleştirme:**
-    * LinkedIn ve E-posta linklerini ve adreslerini kendi bilgilerinizle güncelleyin.
-    * "Hakkımda" kısmını kendi cümlelerinizle daha da kişiselleştirebilirsiniz.
-    * Eğer Wakatime kullanıyorsanız, yorum satırındaki "Yıl İstatistikleri" rozetini etkinleştirebilirsiniz.
-5.  **Kaydet:** Sayfanın en altındaki "Commit changes" düğmesine tıklayarak değişiklikleri kaydedin.
-
-Profilinize gittiğinizde bu README'nin en üstte göründüğünü fark edeceksiniz!
