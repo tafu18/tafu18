@@ -30,7 +30,11 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 
 ### 📊 GitHub İstatistiklerim
 
-![Tayfun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayfuntasdemir&show_icons=true&theme=radical&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayfuntasdemir&show_icons=true&theme=radical&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Tayfun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntasdemir&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Top Languages" />
+</p>
+
 
 ---
 
