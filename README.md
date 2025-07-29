@@ -31,16 +31,31 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayfuntasdemir&show_icons=true&theme=radical&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Tayfun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntasdemir&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tafu18&show_icons=true&theme=radical&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Tayfun's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tafu18&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=5C5C5C&bg_color=F8F8FF" alt="Top Languages" />
 
+  </p>
 
 ---
 
 ### 📬 Bana Ulaşın
 
 * **Web Sitem:** [tayfuntasdemir.com.tr](https://tayfuntasdemir.com.tr)
-* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) 
-* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr)
+* **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) (Varsayılan link, kendi LinkedIn profilinizle güncelleyin)
+* **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr) (Varsayılan e-posta, kendi e-posta adresinizle güncelleyin)
+
 ---
+
+**Nasıl Kullanacaksınız:**
+
+1.  **Depo Adı Kontrolü:** GitHub'da kendi kullanıcı adınız (`tafu18`) ile aynı ada sahip, **public** ve `README.md` dosyası olan özel bir depo oluşturduğunuzdan emin olun.
+2.  **Kopyala-Yapıştır:** Yukarıdaki Markdown kodunu kopyalayın.
+3.  **Düzenle:** GitHub'daki özel depo sayfanıza gidin, `README.md` dosyasına tıklayın ve düzenleme (kalem) simgesine tıklayarak bu kodu yapıştırın.
+4.  **Kişiselleştirme:**
+    * LinkedIn ve E-posta linklerini ve adreslerini kendi bilgilerinizle güncelleyin.
+    * "Hakkımda" kısmını kendi cümlelerinizle daha da kişiselleştirebilirsiniz.
+    * Eğer Wakatime kullanıyorsanız, yorum satırındaki "Yıl İstatistikleri" rozetini etkinleştirebilirsiniz.
+5.  **Kaydet:** Sayfanın en altındaki "Commit changes" düğmesine tıklayarak değişiklikleri kaydedin.
+
+Profilinize gittiğinizde bu README'nin en üstte göründüğünü fark edeceksiniz!
