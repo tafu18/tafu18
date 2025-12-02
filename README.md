@@ -11,8 +11,8 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/NestJS-2496ED?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/EXPO-E0234E?style=flat&logo=expo&logoColor=white" alt="EXPO" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/EXPO-2496ED?style=flat&logo=expo&logoColor=white" alt="EXPO" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
