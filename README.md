@@ -32,7 +32,7 @@ Projelerimde aktif olarak kullandığım ve uzmanlaştığım teknolojiler:
 ### 📬 Bana Ulaşın
 
 * **Vakt-i Huzur Mobil Uygulamam:** [Google Play'de](https://play.google.com/store/apps/details?id=com.tayfuntasdemir.VaktiHuzurApp)
-* **Vakt-i Huzur:** [Vakt-i Huzur](https://vaktihuzur.com.tr/)
+* **Vakt-i Huzur:** [https://vaktihuzur.com.tr](https://vaktihuzur.com.tr/)
 * **Web Sitem:** [tayfuntasdemir.com.tr](https://tayfuntasdemir.com.tr)
 * **LinkedIn:** [linkedin.com/in/tayfuntasdemir](https://www.linkedin.com/in/tayfuntasdemir/) 
 * **E-posta:** [info@tayfuntasdemir.com.tr](mailto:info@tayfuntasdemir.com.tr)
